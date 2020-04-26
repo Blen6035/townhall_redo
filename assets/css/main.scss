@@ -1,0 +1,49 @@
+---
+---
+@import "_sass/bootstrap/bootstrap";
+@import "main";
+
+
+.jumbotron{
+    background-image: url(../images/brown-mountains.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 450px;
+   }
+
+.jumbotron h1{
+    color:white;
+    text-align: center;
+    font-size: 4em;
+    padding-top: 5%;
+}
+
+.jumbotron h3{
+    color:white;
+    text-align: center;
+    font-size: 2em;
+}
+
+.mr-3{
+    width:80px;
+}
+
+.list-unstyled p{
+    padding-top:-1em;
+}
+
+.dino{
+    height: 300px;
+}
+
+.content{
+    margin:3em;
+}
+
+.card{
+    text-align: center;
+}
+
+#tree {
+    opacity: 0.5;
+}
